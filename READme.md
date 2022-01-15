@@ -9,4 +9,5 @@ Các bước để chạy:
  - Mở QuanLyHocSinh.sln. Click Start in Visual studio.
  Lưu ý: kiểm tra file DAO/DataPrivider để chắc chắn database được chạy local.
 
+Reference: https://www.youtube.com/playlist?list=PL33lvabfss1xnPhBJHjM0A8TEBBcGCTsf
 Tuấn Nguyễn - 18521606
